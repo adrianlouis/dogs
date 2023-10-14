@@ -63,6 +63,4 @@ Feed.propTypes = {
   ]),
 };
 
-// enable aew  jsj
-
 export default Feed;
